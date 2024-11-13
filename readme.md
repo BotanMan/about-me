@@ -13,7 +13,6 @@ Marketsy.ai offers a comprehensive suite of tools that simplify the process of c
 - **Course Builder**: An easy-to-use course creation tool designed for creators of all types, from educators to influencers.
 - **Digital Downloads**: Seamlessly sell digital products, such as eBooks, templates, and more, with secure delivery.
 - **AI-Powered Content Generation**: Marketsy.ai includes AI tools to streamline content creation, enabling you to generate product descriptions, store copy, and more.
-- **Free Trials**: Attract new users with the option to offer free trials for subscription products.
 - **Stripe and PayPal Integration**: Secure, reliable payment options that users trust, enhancing conversion and customer satisfaction.
 - **Dedicated Customer Support**: Reach out via chat or email for support with setup, troubleshooting, or product strategies.
 
