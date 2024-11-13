@@ -33,7 +33,7 @@ Join a growing community of creators who have chosen Marketsy.ai to monetize the
 
 ## Links
 
-- [Marketsy.ai Homepage](https://marketsy.ai)
+- [Sell your digital products on Marketsy.ai](https://marketsy.ai)
 - [Get Started with Marketsy.ai](https://marketsy.ai/auth/sign-in)
 - [Documentation and Help Center](https://marketsy.ai/blog/tag/help-center)
 - [Community Forum](https://marketsy.ai/community)
