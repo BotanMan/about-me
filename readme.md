@@ -1,4 +1,4 @@
-# Igor's Biography
+# Igor Bokii
 
 I'm Igor, a tech enthusiast turned product developer with over a decade of experience in technology and product development. I transitioned to product development two years ago after spending 10 years honing my skills as a developer, designer, product manager, and CEO of a software consulting agency. Throughout my journey, I've developed a passion for building tools that empower digital creators and entrepreneurs, culminating in projects like **Marketsy.ai** and **Best Selling Products** (formerly known as GumroadTrends).
 
