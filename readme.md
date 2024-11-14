@@ -41,3 +41,22 @@ Join a growing community of creators who have chosen Marketsy.ai to monetize the
 ## About Marketsy.ai
 
 Marketsy.ai was built with digital creators in mind. Our mission is to make it as easy as possible for creators to bring their products to market without sacrificing control, support, or profit. We are continuously enhancing the platform with new features based on user feedback, ensuring that Marketsy.ai remains the ultimate tool for digital product sales.
+
+
+
+# [Best Selling Products](https://bestsellingproducts.co/)
+
+**Best Selling Products** is a digital tool designed to assist online sellers in identifying high-performing digital products and staying informed about current market trends. By analyzing digital trends, the platform aims to help users enhance their earnings by focusing on products with proven success.
+
+## Key Features
+
+- **Product Identification:**  
+  The platform enables users to discover top-selling digital products across various categories, facilitating informed decision-making for their online stores.
+
+- **Trend Analysis:**  
+  Regular updates provide insights into emerging trends, allowing sellers to adapt their offerings to meet current market demands.
+
+- **Performance Metrics:**  
+  Users can access data on product performance, including growth percentages and timeframes, to evaluate potential profitability.
+
+Best Selling Products serves as a valuable resource for digital product sellers seeking to optimize their inventory and capitalize on market trends.
